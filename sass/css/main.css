@@ -1,0 +1,40 @@
+body {
+  background-color: #222629 !important; }
+
+nav {
+  background-color: #222629 !important; }
+  nav ul li a {
+    color: #86C232 !important;
+    text-transform: uppercase; }
+  nav a:hover {
+    color: #61892F !important; }
+  nav ul div ul {
+    background-color: #222629 !important; }
+    nav ul div ul a {
+      text-transform: capitalize !important; }
+
+button {
+  color: #86C232 !important; }
+
+footer a {
+  text-transform: uppercase !important;
+  font-size: smaller; }
+
+footer a:hover {
+  color: #61892F !important; }
+
+a {
+  color: #86C232 !important;
+  text-decoration: none !important; }
+
+a:hover {
+  color: #61892F !important; }
+
+h1, h2, h3, h4, h5 {
+  color: #adb8c0; }
+
+p {
+  color: #8f9497; }
+
+strong {
+  color: #adadad; }

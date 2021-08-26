@@ -1,0 +1,46 @@
+body {
+    background-color: $black !important;
+}
+nav{
+    background-color: $black !important;
+    ul li a{
+        color: $green !important;
+        text-transform: uppercase;
+    }
+    a:hover{
+        color: $deepgreen !important;
+    }
+    ul div ul {
+        background-color: $black !important;
+       a{
+            text-transform: capitalize !important;
+        }
+    }
+}
+button{
+    color: $green !important;
+}
+footer a{
+    text-transform: uppercase !important;
+    font-size: smaller;
+}
+
+footer a:hover{
+    color: $deepgreen !important;
+}
+a{
+    color: $green !important;
+    text-decoration: none !important;
+}
+a:hover {
+    color: $deepgreen !important;
+}
+h1, h2, h3, h4, h5 {
+    color: $hs;
+}
+p{
+    color: $greywhite;
+}
+strong{
+    color: $strong;
+}
