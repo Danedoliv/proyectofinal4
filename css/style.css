@@ -24,3 +24,8 @@
     width: 100% !important;
     height: 250px !important;
 }
+
+button {
+    background-color: #222629;
+    border-color: #222629;
+}
