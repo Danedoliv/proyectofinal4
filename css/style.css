@@ -25,11 +25,15 @@
     height: 250px !important;
 }
 
-button {
+.cardButton {
     background-color: #222629 !important;
     border-color: #222629 !important;
 }
 
 .colorHP { 
     color: #86C232 !important;
+}
+
+.cardBackground {
+    background-color: #616669 !important;
 }
